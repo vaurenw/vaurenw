@@ -1,2 +1,2 @@
-free training:
+newsletter:
 https://vauren.substack.com
